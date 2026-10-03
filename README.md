@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cyberwallaRudra/cyberwallaRudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · cyberwallarudra</sub></p>
+<h1>Rudra Goswami</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Aspiring Cloud Engineer | AWS | Linux | Python | Docker | Kubernetes | Terraform | Jenkins | CI/CD</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Jharkhand India</sub></p>
+<p><a href="https://github.com/cyberwallarudra">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/138973935?u=6120feaf905a77305b748ab0fce59c0286999b39&amp;v=4" width="180" alt="Rudra Goswami GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-Here are some ideas to get you started:
+<h2>What teams can evaluate quickly</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>18 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>31 contributions · 10 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Aspiring Cloud Engineer | AWS | Linux | Python | Docker | Kubernetes | Terraform | Jenkins | CI/CD</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>18</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>31</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Rudra Goswami GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&repos=cyberwallarudra%2FGit_Github_DevOps%2Ccyberwallarudra%2FBash_Scripting%2Ccyberwallarudra%2FJavascript_Learning_with_project%2Ccyberwallarudra%2FPython_Learning&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&repos=cyberwallarudra%2FGit_Github_DevOps%2Ccyberwallarudra%2FBash_Scripting%2Ccyberwallarudra%2FJavascript_Learning_with_project%2Ccyberwallarudra%2FPython_Learning&v=recruiter-projects-1&mode=dark" width="100%" alt="Rudra Goswami selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/cyberwallaRudra/Git_Github_DevOps">Git_Github_DevOps</a></h3>
+<p>A selected public project.</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/cyberwallaRudra/Git_Github_DevOps">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/cyberwallaRudra/Bash_Scripting">Bash_Scripting</a></h3><p>A selected public project.</p><p><sub>Shell · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/cyberwallaRudra/Javascript_Learning_with_project">Javascript_Learning_with_project</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/cyberwallaRudra/Python_Learning">Python_Learning</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Rudra Goswami technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>49% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>8% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=cyberwallarudra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138973935%3Fu%3D6120feaf905a77305b748ab0fce59c0286999b39%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Rudra Goswami contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/cyberwallarudra">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Rudra Goswami · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
