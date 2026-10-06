@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p> Aspiring DevOps & Cloud Engineer</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>18 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>31 contributions · 10 active days</p></td>
 </tr>
