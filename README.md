@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · cyberwallarudra</sub></p>
 <h1>Rudra Goswami</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>DevOps & Cloud Engineer</h2>
 <p>Aspiring Cloud Engineer | AWS | Linux | Python | Docker | Kubernetes | Terraform | Jenkins | CI/CD</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Jharkhand India</sub></p>
